@@ -14,7 +14,7 @@ Here is a guide to editing environment variables on Windows 10!
 
 - Under the **System Variables** section (the lower half), find the row with **Path** in the first column, and click **Edit..**
 
-  ![select_row_and_edit](https://user-images.githubusercontent.com/57333028/112717670-3c606400-8f14-11eb-928f-73dcd006ebda.png)
+  ![select_row_and_edit](https://user-images.githubusercontent.com/57333028/112718247-c3fba200-8f17-11eb-8d46-832a2a2c15cc.png)
 
 - The **Edit environment variable** UI will appear. Here, you can click **New** and type in the new path you want to add. From this screen you can also edit or reorder them.
 
@@ -23,8 +23,7 @@ Here is a guide to editing environment variables on Windows 10!
   - The **Edit** button modifies the selected variable
   - The **Delete** button deletes the selected variable
 
-  ![edit_path_variable](https://user-images.githubusercontent.com/57333028/112717560-957bc800-8f13-11eb-9a6c-e664c37f08ce.png)
-
+![edit_path_variable](https://user-images.githubusercontent.com/57333028/112718290-045b2000-8f18-11eb-801c-a6772d6c2376.png)
 
 - Dismiss all of the dialogs by choosing **OK**. Your changes are saved!
 
