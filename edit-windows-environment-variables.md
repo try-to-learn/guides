@@ -23,7 +23,7 @@ Here is a guide to editing environment variables on Windows 10!
   - The **Edit** button modifies the selected variable
   - The **Delete** button deletes the selected variable
 
-![edit_path_variable](https://user-images.githubusercontent.com/57333028/112718290-045b2000-8f18-11eb-801c-a6772d6c2376.png)
+  ![edit_path_variable](https://user-images.githubusercontent.com/57333028/112718290-045b2000-8f18-11eb-801c-a6772d6c2376.png)
 
 - Dismiss all of the dialogs by choosing **OK**. Your changes are saved!
 
